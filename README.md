@@ -121,7 +121,7 @@ Start at [`marketing/lead-scoring/`](./marketing/lead-scoring/) to understand ho
 Go directly to [`ai-community/claude-code-skills/`](./ai-community/claude-code-skills/) and install the skills that match your work.
 
 **If you're building on Framer or want Raycast automations:**
-Start at [`design/`](./design/) and work through `framer-ai/` or `raycast-extensions/` depending on what you need.
+Start at [`design/`](./design/) and work through `[`framer-ai/`](./framer-ai/)` or `raycast-extensions/` depending on what you need.
 
 ---
 
