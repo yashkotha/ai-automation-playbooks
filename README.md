@@ -1,4 +1,5 @@
 # AI Automation Playbooks
+<img width="1200" height="675" alt="LinkedIn – Open Source Contributions" src="https://github.com/user-attachments/assets/1fc8881a-867b-4eb7-abca-19b0be20d61f" />
 
 Production-tested AI automation workflows, infrastructure guides, and prompt libraries. Built from real systems running real workloads, not from tutorials or toy projects. If you want to understand how AI automation actually works at the seams, you're in the right place.
 
